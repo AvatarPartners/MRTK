@@ -1,0 +1,13 @@
+{
+  "name": "com.avatarpartners.sxr_mrtk",
+  "version": "1.3.5",
+  "displayName": "SimplifyXR MRTK",
+  "description": "This is the SimplifyXR MRTK package",
+  "unity": "2019.3",
+  "unityRelease": "2f1",
+  "author": {
+    "name": "Avatar Partners",
+    "email": "SXRTeam@avatarpartners.com",
+    "url": "https://www.avatarpartners.com"
+  }
+}
